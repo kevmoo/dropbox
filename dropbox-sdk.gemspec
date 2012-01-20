@@ -20,6 +20,6 @@ Gem::Specification.new do |s|
     s.files = [
         "CHANGELOG", "LICENSE", "README",
         "cli_example.rb", "dropbox_controller.rb", "web_file_browser.rb",
-        "lib/dropbox_sdk.rb", "data/trusted-certs.crt",
+        "lib/dropbox_sdk.rb", "lib/trusted-certs.crt",
     ]
 end
